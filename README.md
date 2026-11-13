@@ -150,4 +150,4 @@ AI & Data Science graduate — Python, SQL, Machine Learning, Generative AI
 - 🌐 [Portfolio](https://jaiganesh-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaiganesh-mabbu-69720323a/)
 - 🐙 [GitHub](https://github.com/JAIGANESH91377)
-- 📧 [3227jaiganeshmabbu@gmail.com](mailto:3227jaiganeshmabbu@gmail.com)
+- 📧 [Gmail](mailto:3227jaiganeshmabbu@gmail.com)
